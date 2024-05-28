@@ -1,0 +1,163 @@
+{
+  "project_info": {
+    "project_number": "455200024079",
+    "firebase_url": "https://iotsensordb-9b204-default-rtdb.firebaseio.com",
+    "project_id": "iotsensordb-9b204",
+    "storage_bucket": "iotsensordb-9b204.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455200024079:android:8079994fb95ff168d2257a",
+        "android_client_info": {
+          "package_name": "com.example.fetchrdapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455200024079-h8s0tvj9p88rk5pq4bj9h151b1175kem.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd7cYOZKVf6x3wWDbHe7ZKN-TBj2LQH7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455200024079-h8s0tvj9p88rk5pq4bj9h151b1175kem.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "455200024079-39n4ivrscnn52esmsfibccsdjkupe4pu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fetchrdapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455200024079:android:75f0cd924b8323a4d2257a",
+        "android_client_info": {
+          "package_name": "com.example.iotqueryfetch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455200024079-h8s0tvj9p88rk5pq4bj9h151b1175kem.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd7cYOZKVf6x3wWDbHe7ZKN-TBj2LQH7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455200024079-h8s0tvj9p88rk5pq4bj9h151b1175kem.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "455200024079-39n4ivrscnn52esmsfibccsdjkupe4pu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fetchrdapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455200024079:android:501893c46599e585d2257a",
+        "android_client_info": {
+          "package_name": "com.example.iotsensorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455200024079-h8s0tvj9p88rk5pq4bj9h151b1175kem.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd7cYOZKVf6x3wWDbHe7ZKN-TBj2LQH7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455200024079-h8s0tvj9p88rk5pq4bj9h151b1175kem.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "455200024079-39n4ivrscnn52esmsfibccsdjkupe4pu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fetchrdapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455200024079:android:63a51d2606aa3329d2257a",
+        "android_client_info": {
+          "package_name": "com.example.realtimedbfetch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455200024079-4t45fnc0s9903lsrs4vk68uqlvnqpi8s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.realtimedbfetch",
+            "certificate_hash": "7bb2031e87f9b4bc08a7de898b0ec61977d76774"
+          }
+        },
+        {
+          "client_id": "455200024079-h8s0tvj9p88rk5pq4bj9h151b1175kem.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd7cYOZKVf6x3wWDbHe7ZKN-TBj2LQH7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455200024079-h8s0tvj9p88rk5pq4bj9h151b1175kem.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "455200024079-39n4ivrscnn52esmsfibccsdjkupe4pu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fetchrdapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

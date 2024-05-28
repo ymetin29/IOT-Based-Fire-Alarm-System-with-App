@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>455200024079-0608kdv41u7hb14svelb182virg7dlja.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.455200024079-0608kdv41u7hb14svelb182virg7dlja</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>455200024079-4t45fnc0s9903lsrs4vk68uqlvnqpi8s.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCOoeF-xGG57-0LEvgi92A6q8vfBv2s2w8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>455200024079</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.iotqueryfetch</string>
+	<key>PROJECT_ID</key>
+	<string>iotsensordb-9b204</string>
+	<key>STORAGE_BUCKET</key>
+	<string>iotsensordb-9b204.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:455200024079:ios:649b2303352f86c3d2257a</string>
+	<key>DATABASE_URL</key>
+	<string>https://iotsensordb-9b204-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
