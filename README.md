@@ -1,4 +1,4 @@
-# iotqueryfetch
+# IOT Flutter App
 
 A new Flutter project.
 
