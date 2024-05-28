@@ -13,13 +13,13 @@
 #include "addons/RTDBHelper.h"
 
 // Insert your network credentials
-#define WIFI_SSID "Kablonet Netmaster-8653-G"
-#define WIFI_PASSWORD "a21d1a3c"
+#define WIFI_SSID "*****"
+#define WIFI_PASSWORD "******"
 // Insert Firebase project API Key
-#define API_KEY "AIzaSyAd7cYOZKVf6x3wWDbHe7ZKN-TBj2LQH7A"
+#define API_KEY "*******"
 // Insert Authorized Email and Corresponding Password
-#define USER_EMAIL "m.mainfirebase@gmail.com"
-#define USER_PASSWORD "jnti8megl9"
+#define USER_EMAIL "*******"
+#define USER_PASSWORD "********"
 // Insert RTDB URLefine the RTDB URL
 #define DATABASE_URL "iotsensordb-9b204-default-rtdb.firebaseio.com"
 #define DHTPIN D4
